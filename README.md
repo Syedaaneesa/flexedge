@@ -78,7 +78,7 @@ Here are some screenshots from the project:
 | ![Screenshot 5](https://github.com/Syedaaneesa/flexedge/blob/main/FlexEdge-%E2%80%93-Helping-You-Find-the-Perfect-Office-%E2%80%93-At-FlexEdge-we-make-it-simple-to-find-the-right-office-space-for-you-and-your-team--10-07-2025_08_18_PM.png) | Services Page |
 | ![Screenshot 6](https://github.com/Syedaaneesa/flexedge/blob/main/FlexEdge-%E2%80%93-Helping-You-Find-the-Perfect-Office-%E2%80%93-At-FlexEdge-we-make-it-simple-to-find-the-right-office-space-for-you-and-your-team--10-07-202x5_08_18_PM.png) | Footer & Contact Form |
 | ![Screenshot 7](https://github.com/Syedaaneesa/flexedge/blob/main/FlexEdge-%E2%80%93-Helping-You-Find-the-Perfect-Office-%E2%80%93-At-FlexEdge-we-make-it-simple-to-find-the-right-office-space-for-you-and-your-team--10a-07-2025_08_16_PM.png) | Footer & Contact Form |
-| ![Screenshot 6](https://github.com/Syedaaneesa/flexedge/blob/main/your-sixth-image-name.png) | Footer & Contact Form |
+| ![Screenshot 7](https://github.com/Syedaaneesa/flexedge/blob/main/FlexEdge-%E2%80%93-Helping-You-Find-the-Perfect-Office-%E2%80%93-At-FlexEdge-we-make-it-simple-to-find-the-right-office-space-for-you-and-your-tezam--10-07-2025_08_18_PM.png) | Footer & Contact Form |
 
 > *(Replace `your-second-image-name.png` and others with actual image filenames in your repository)*
 
