@@ -1,6 +1,6 @@
 # 🏢 FlexEdge – Helping You Find the Perfect Office
 
-![FlexEdge Banner](https://github.com/Syedaaneesa/flexedge/blob/main/FlexEdge-%E2%80%93-Helping-You-Find-the-Perfect-Office-%E2%80%93-At-FlexEdge-we-make-it-simple-to-find-the-right-office-space-for-you-ancd-your-team--10-07-2025_08_19_PM.png)
+![FlexEdge Banner](https://github.com/Syedaaneesa/flexedge/blob/main/FlexEdge-%E2%80%93-Helping-You-Find-the-Perfect-Office-%E2%80%93-At-FlexEdge-we-make-it-simple-to-find-the-right-office-space-for-you-and-your-team--10-07-2025_08_15_PM.png)
 
 ## 🌐 Live Project
 **Website:** [FlexEdge](https://flexedge.zync-crm.com/)  
