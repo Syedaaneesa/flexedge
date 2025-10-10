@@ -106,6 +106,16 @@ Every page was carefully planned, designed, and optimized to maintain a **profes
 
 ---
 
+## 📬 Contact
+
+If you’re interested in WordPress website design, Elementor customization, or full project development — feel free to reach out!
+
+**👤 Developer:** Syeda Aneesa  
+**📧 Email:** saneesa@zeestmedia.com]  
+**🌍 Portfolio:** https://aneesa.zeestmedia.com
+
+---
+
 ## 🧑‍💻 Author
 
 **Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)  
