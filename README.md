@@ -4,7 +4,7 @@
 
 ## 🌐 Live Project
 **Website:** [FlexEdge](https://flexedge.zync-crm.com/)  
-A modern, dynamic, and fully responsive WordPress website designed to simplify the process of finding ideal office spaces for professionals and businesses.
+A sleek, fully responsive WordPress website crafted to make finding the perfect office space effortless for professionals and businesses.
 
 ---
 
