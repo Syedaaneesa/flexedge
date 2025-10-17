@@ -37,9 +37,10 @@ The project demonstrates my ability to **customize WordPress themes**, integrate
 
 ## 🎨 Design & Development Process
 
-1. **Planning & Structure**  
-   - Researched the FlexEdge brand and its target market
-   - Developed a detailed wireframe and visual design structure  
+1. **Planning & Structure**
+
+- Conducted in-depth research on the FlexEdge brand and its target audience
+- Created a comprehensive wireframe and established the visual design framework 
 
 2. **Theme Setup & Customization**  
    - Installed WordPress and essential plugins  
