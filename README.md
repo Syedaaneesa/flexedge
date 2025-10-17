@@ -56,9 +56,9 @@ The project demonstrates my ability to **customize WordPress themes**, integrate
    - Adjusted grids, fonts, and elements for tablet & mobile  
 
 5. **Performance Optimization**  
-   - Minified scripts and styles  
-   - Optimized images and caching  
-   - Enhanced page load speed  
+- Streamlined scripts and styles for faster rendering
+- Optimized images and leveraged caching techniques
+- Enhanced website speed and overall performance
 
 6. **Testing & Deployment**  
    - Conducted cross-browser testing  
