@@ -96,7 +96,7 @@ This project involved:
 - Managing site structure and **SEO-optimized content**
 - Integrating **responsive and accessible design principles**
 
-Every page was carefully planned, designed, and optimized to maintain a **professional and elegant** look that aligns with the FlexEdge brand.
+Each page was thoughtfully crafted and optimized to reflect a refined, professional aesthetic consistent with the FlexEdge brand identity.
 
 ---
 
