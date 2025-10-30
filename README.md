@@ -17,8 +17,7 @@ A sleek, fully responsive WordPress website built to make finding the perfect of
 - **Optimized performance**
 - **User-friendly content management**
 
-This project highlights my expertise in WordPress theme customization, plugin integration, and creating designs that align with brand identity and enhance user experience.
-
+This project showcases my skills in customizing WordPress themes, integrating essential plugins, and crafting designs that stay true to brand identity while delivering an exceptional user experience.
 ---
 
 ## 🛠️ Tools & Technologies Used
@@ -39,9 +38,8 @@ This project highlights my expertise in WordPress theme customization, plugin in
 
 1. **Planning & Structure**
 
-Performed thorough research on the FlexEdge brand and its intended audience
-
-Developed detailed wireframes and defined the overall visual design direction
+Conducted in-depth research on the FlexEdge brand and its target audience
+Created detailed wireframes and established the overall visual design approach
 
 2. **Theme Setup & Customization**  
    - Installed WordPress and essential plugins  
