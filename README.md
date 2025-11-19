@@ -17,7 +17,7 @@ A modern, fully responsive WordPress website built to help professionals and bus
 - **Optimized performance**
 - **User-friendly content management**
 
-This project showcases my ability to customize WordPress themes, integrate essential plugins, and design interfaces that reflect the brand while delivering an exceptional user experience.
+This project demonstrates my ability to customize WordPress themes, integrate essential plugins, and design interfaces that align with the brand while delivering an exceptional user experience.
 ---
 
 ## 🛠️ Tools & Technologies Used
@@ -59,9 +59,11 @@ Ensured a consistent layout and design across all screen sizes
 Optimized grids, typography, and UI elements for tablet and mobile experiences
 
 5. **Performance Optimization**  
-- Streamlined scripts and styles for faster rendering
-- Optimized images and leveraged caching techniques
-- Enhanced website speed and overall performance
+Streamlined scripts and styles for faster load times
+
+Optimized images and applied caching strategies
+
+Boosted overall website speed and performance
 
 6. **Testing & Deployment**  
    - Conducted cross-browser testing  
