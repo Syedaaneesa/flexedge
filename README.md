@@ -38,10 +38,9 @@ This project demonstrates my ability to customize WordPress themes, integrate es
 
 1. **Planning & Structure**
 
-Conducted in-depth research on the FlexEdge brand and its target audience
+Performed thorough research on the FlexEdge brand and its target audience
 
-Created detailed wireframes and established the overall visual design direction
-
+Developed detailed wireframes and defined the project’s visual design direction
 2. **Theme Setup & Customization**  
  Set up WordPress along with all necessary plugins
 
@@ -54,9 +53,9 @@ Implemented a polished color scheme and typography style
    - Created pages such as *Home*, *About*, *Offices*, *Services*, and *Contact*
 
 4. **Responsive Design**  
-Ensured a consistent layout and design across all screen sizes
+Maintained a consistent layout and design across all screen sizes
 
-Optimized grids, typography, and UI elements for tablet and mobile experiences
+Refined grids, typography, and UI elements for smooth tablet and mobile experiences
 
 5. **Performance Optimization**  
 Streamlined scripts and styles for faster load times
