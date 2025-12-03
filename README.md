@@ -17,7 +17,7 @@ A modern, fully responsive WordPress website built to help professionals and bus
 - **Optimized performance**
 - **User-friendly content management**
 
-This project demonstrates my ability to customize WordPress themes, integrate essential plugins, and design interfaces that align with the brand while delivering an exceptional user experience.
+This project showcases my skills in customizing WordPress themes, integrating essential plugins, and designing interfaces that reflect the brand while providing an outstanding user experience.
 ---
 
 ## 🛠️ Tools & Technologies Used
@@ -38,9 +38,9 @@ This project demonstrates my ability to customize WordPress themes, integrate es
 
 1. **Planning & Structure**
 
-Performed comprehensive research on the FlexEdge brand and its target audience.
+Conducted in-depth research on the FlexEdge brand and its target audience.
 
-Developed detailed wireframes and defined the overall visual design direction for the project.
+Created detailed wireframes and established the overall visual design direction for the project.
 2. **Theme Setup & Customization**  
 Installed WordPress and configured all essential plugins.
 
@@ -52,16 +52,16 @@ Implemented a cohesive color palette and typography system.
    - Created pages such as *Home*, *About*, *Offices*, *Services*, and *Contact*
 
 4. **Responsive Design**  
-Maintained a consistent layout and design across all screen sizes
+Ensured consistent layout and design across all screen sizes
 
-Refined grids, typography, and UI elements for smooth tablet and mobile experiences
+Optimized grids, typography, and UI elements for seamless tablet and mobile experiences
 
 5. **Performance Optimization**  
-Optimized scripts and styles for faster load times.
+Optimized scripts and styles to improve load times
 
-Enhanced images and applied effective caching techniques.
+Enhanced images and implemented effective caching strategies
 
-Boosted overall site speed and performance.
+Increased overall site speed and performance
 
 6. **Testing & Deployment**  
    - Conducted cross-browser testing  
