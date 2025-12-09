@@ -38,15 +38,12 @@ This project showcases my skills in customizing WordPress themes, integrating es
 
 1. **Planning & Structure**
 
-Conducted in-depth research on the FlexEdge brand and its target audience.
-
-Created detailed wireframes and established the overall visual design direction for the project.
+– Performed comprehensive research on the FlexEdge brand and its target audience.
+– Developed detailed wireframes and defined the overall visual design direction for the project.
 2. **Theme Setup & Customization**  
-Installed WordPress and configured all essential plugins.
-
-Customized Elementor widgets and page templates to match the project requirements.
-
-Implemented a cohesive color palette and typography system.
+Installed WordPress and set up all essential plugins.
+– Customized Elementor widgets and page templates to meet project requirements.
+– Applied a cohesive color palette and typography system throughout the site.
 3. **Content Integration**  
    - Added engaging text and high-quality imagery  
    - Created pages such as *Home*, *About*, *Offices*, *Services*, and *Contact*
@@ -57,11 +54,9 @@ Ensured consistent layout and design across all screen sizes
 Optimized grids, typography, and UI elements for seamless tablet and mobile experiences
 
 5. **Performance Optimization**  
-Optimized scripts and styles to improve load times
-
-Enhanced images and implemented effective caching strategies
-
-Increased overall site speed and performance
+– Optimized scripts and styles to reduce load times.
+– Enhanced images and applied effective caching strategies.
+– Boosted overall site speed and performance.
 
 6. **Testing & Deployment**  
    - Conducted cross-browser testing  
@@ -102,10 +97,10 @@ Each page was thoughtfully crafted and optimized to reflect a refined, professio
 ---
 
 ## 🚀 Outcome
-✅ Fully responsive and performance-optimized WordPress website
-✅ Sleek, professional, and user-friendly design
-✅ Improved user experience with clear, effective CTAs
-✅ Simple for the client to manage and update
+✅ Fully responsive WordPress website optimized for peak performance
+✅ Sleek, professional, and intuitive design
+✅ Enhanced user experience with clear and compelling CTAs
+✅ Easy for the client to manage and update
 
 ---
 
