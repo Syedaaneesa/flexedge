@@ -10,14 +10,17 @@ A modern, fully responsive WordPress website built to help professionals and bus
 
 ## 💡 Project Overview
 
-**FlexEdge** was built with a focus on:
-- **Clean, modern UI/UX**
-- **Ease of navigation**
-- **Fully responsive design**
-- **Optimized performance**
-- **User-friendly content management**
+Sleek, modern UI/UX design
 
-This project showcases my skills in customizing WordPress themes, integrating essential plugins, and designing interfaces that reflect the brand while providing an outstanding user experience.
+Intuitive and effortless navigation
+
+Fully responsive layouts for all devices
+
+High-performance optimization
+
+Simple and user-friendly content management
+
+This project highlights my expertise in customizing WordPress themes, integrating key plugins, and designing interfaces that align with the brand while delivering an exceptional user experience.
 ---
 
 ## 🛠️ Tools & Technologies Used
@@ -38,12 +41,15 @@ This project showcases my skills in customizing WordPress themes, integrating es
 
 1. **Planning & Structure**
 
-– Performed comprehensive research on the FlexEdge brand and its target audience.
-– Developed detailed wireframes and defined the overall visual design direction for the project.
+Conducted in-depth research on the FlexEdge brand and its target audience.
+
+Created detailed wireframes and established the overall visual design direction for the project.
 2. **Theme Setup & Customization**  
-Installed WordPress and set up all essential plugins.
-– Customized Elementor widgets and page templates to meet project requirements.
-– Applied a cohesive color palette and typography system throughout the site.
+Installed WordPress and configured all essential plugins.
+
+Customized Elementor widgets and page templates to align with project requirements.
+
+Applied a consistent color palette and typography system across the website.
 3. **Content Integration**  
    - Added engaging text and high-quality imagery  
    - Created pages such as *Home*, *About*, *Offices*, *Services*, and *Contact*
@@ -86,13 +92,15 @@ Here are some screenshots from the project:
 ## 💪 Efforts & Contributions
 
 This project involved:
-- Designing from scratch using **Elementor Pro**
-- Building a **custom layout system** for scalability
-- Styling components with **custom CSS**
-- Managing site structure and **SEO-optimized content**
-- Integrating **responsive and accessible design principles**
+Designing pages from scratch using Elementor Pro
 
-Each page was thoughtfully crafted and optimized to reflect a refined, professional aesthetic consistent with the FlexEdge brand identity.
+Developing a custom layout system for scalability and flexibility
+
+Styling components with custom CSS for a polished look
+
+Structuring the site and managing SEO-optimized content
+
+Implementing responsive and accessible design principles
 
 ---
 
