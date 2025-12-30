@@ -4,21 +4,21 @@
 
 ## 🌐 Live Project
 **Website:** [FlexEdge](https://flexedge.zync-crm.com/)  
-A modern, fully responsive WordPress website built to help professionals and businesses effortlessly find the perfect office space.
+A modern, fully responsive WordPress website designed to help professionals and businesses easily discover the ideal office space.
 
 ---
 
 ## 💡 Project Overview
 
-Sleek, contemporary UI/UX design.
+Modern and visually appealing UI/UX design
 
-Intuitive and seamless navigation.
+Smooth and intuitive navigation experience
 
-Fully responsive layouts across all devices.
+Fully responsive layouts for all screen sizes
 
-Optimized for high performance and fast loading.
+Optimized for fast performance and quick load times
 
-Easy-to-use and user-friendly content management.
+User-friendly and easy-to-manage content system
 
 This project demonstrates my expertise in customizing WordPress themes, integrating essential plugins, and designing brand-aligned interfaces that provide an exceptional user experience.
 ---
@@ -41,9 +41,9 @@ This project demonstrates my expertise in customizing WordPress themes, integrat
 
 1. **Planning & Structure**
 
-Conducted in-depth research on the FlexEdge brand and its target audience.
+Performed comprehensive research on the FlexEdge brand and its target audience.
 
-Created detailed wireframes and established the overall visual design direction for the project.
+Developed detailed wireframes and defined the project’s overall visual design direction.
 2. **Theme Setup & Customization**  
 Installed WordPress and configured all essential plugins.
 
@@ -105,10 +105,10 @@ Implementing responsive and accessible design principles across all devices.
 ---
 
 ## 🚀 Outcome
-✅ Fully responsive WordPress website optimized for maximum performance
-✅ Clean, professional, and intuitive design
-✅ Improved user experience with clear, engaging call-to-actions
-✅ Simple and user-friendly for easy client management and updates
+✅ Fully responsive WordPress website optimized for high performance
+✅ Modern, clean, and professional design
+✅ Enhanced user experience with clear and engaging calls to action
+✅ Easy-to-use interface for seamless client management and updates
 
 ---
 
