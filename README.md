@@ -1,14 +1,14 @@
-🏢 FlexEdge – Making Your Office Search Effortless
+ FlexEdge – Making Your Office Search Effortless
 
 ![FlexEdge Banner](https://github.com/Syedaaneesa/flexedge/blob/main/FlexEdge-%E2%80%93-Helping-You-Find-the-Perfect-Office-%E2%80%93-At-FlexEdge-we-make-it-simple-to-find-the-right-office-space-for-you-and-your-team--10-07-2025_08_15_PM.png)
 
-## 🌐 Live Website
+##  Live Website
 **Website:** [FlexEdge](https://flexedge.zync-crm.com/)  
 A modern, fully responsive WordPress website designed to help professionals and businesses easily discover the ideal office space.
 
 ---
 
-## 💡 Project Overview
+##  Project Overview
 
 Contemporary, visually engaging UI/UX design.
 
@@ -23,7 +23,7 @@ User-friendly content management system for effortless updates and site manageme
 This project showcases my skills in customizing WordPress themes, integrating key plugins, and creating brand-aligned interfaces that deliver a superior user experience.
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 | Category | Tools / Technologies |
 |-----------|----------------------|
@@ -37,7 +37,7 @@ This project showcases my skills in customizing WordPress themes, integrating ke
 
 ---
 
-## 🎨 Design & Development Process
+##  Design & Development Process
 
 1. **Planning & Structure**
 
@@ -70,7 +70,7 @@ Optimized grids, typography, and UI elements for seamless tablet and mobile expe
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 
 Here are some screenshots from the project:
 
@@ -89,7 +89,7 @@ Here are some screenshots from the project:
 
 ---
 
-## 💪 Efforts & Contributions
+##  Efforts & Contributions
 
 This project involved:
 Built pages from scratch using Elementor Pro for a fully customized experience.
@@ -104,28 +104,28 @@ Applied responsive and accessible design principles to ensure seamless performan
 
 ---
 
-## 🚀 Outcome
-✅ Fully responsive WordPress website built for fast performance
+##  Outcome
+ Fully responsive WordPress website built for fast performance
 
-✅ Sleek, modern, and professional design
+ Sleek, modern, and professional design
 
-✅ Improved user experience with clear, engaging calls-to-action
+ Improved user experience with clear, engaging calls-to-action
 
-✅ Intuitive interface for effortless client management and content updates
+ Intuitive interface for effortless client management and content updates
 
 ---
 
-## 📬 Contact
+##  Contact
 
 If you’re interested in WordPress website design, Elementor customization, or full project development — feel free to reach out!
 
-**👤 Developer:** Syeda Aneesa  
-**📧 Email:** saneesa@zeestmedia.com]  
-**🌍 Portfolio:** https://aneesa.zeestmedia.com
+** Developer:** Syeda Aneesa  
+** Email:** saneesa@zeestmedia.com]  
+** Portfolio:** https://aneesa.zeestmedia.com
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)  
 **Project Type:** Freelance / Personal WordPress Project  
@@ -133,4 +133,4 @@ If you’re interested in WordPress website design, Elementor customization, or 
 
 ---
 
-⭐ *If you like this project, don’t forget to star the repo and show your support!*
+ *If you like this project, don’t forget to star the repo and show your support!*
