@@ -48,34 +48,34 @@ Dedicated to building a high-quality, scalable, and user-centric digital experie
 
 1. **Planning & Structure**
 
-Conducted in-depth research on the FlexEdge brand and its target audience.
-
-Created detailed wireframes and established the project’s overall visual design direction.
+  Conducted in-depth research on the FlexEdge brand and its target audience.
+  
+  Created detailed wireframes and established the project’s overall visual design direction.
 
 2. **Theme Setup & Customization**  
-Set up WordPress and configured all necessary plugins.
-
-Customized Elementor widgets and page templates to meet project specifications.
-
-Implemented a consistent color palette and typography system throughout the website.
+   Set up WordPress and configured all necessary plugins.
+   
+   Customized Elementor widgets and page templates to meet project specifications.
+   
+   Implemented a consistent color palette and typography system throughout the website.
 
 3. **Content Integration**  
    - Added engaging text and high-quality imagery  
    - Created pages such as *Home*, *About*, *Offices*, *Services*, and *Contact*
 
 4. **Responsive Design**  
-Ensured consistent layout and design across all screen sizes
-
-Optimized grids, typography, and UI elements for seamless tablet and mobile experiences
+    Ensured consistent layout and design across all screen sizes
+    
+    Optimized grids, typography, and UI elements for seamless tablet and mobile experiences
 
 5. **Performance Optimization**  
-– Optimized scripts and styles to reduce load times.
-– Enhanced images and applied effective caching strategies.
-– Boosted overall site speed and performance.
+    – Optimized scripts and styles to reduce load times.
+    – Enhanced images and applied effective caching strategies.
+    – Boosted overall site speed and performance.
 
 6. **Testing & Deployment**  
-   - Conducted cross-browser testing  
-   - Deployed site on [zync-crm.com](https://flexedge.zync-crm.com/)  
+    - Conducted cross-browser testing  
+    - Deployed site on [zync-crm.com](https://flexedge.zync-crm.com/)  
 
 ---
 
