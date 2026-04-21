@@ -53,27 +53,32 @@ Dedicated to building a high-quality, scalable, and user-centric digital experie
      Created detailed wireframes and established the project’s overall visual design direction.
 
 2. **Theme Setup & Customization**  
-   Set up WordPress and configured all necessary plugins.
+
+    Set up WordPress and configured all necessary plugins.
    
    Customized Elementor widgets and page templates to meet project specifications.
    
    Implemented a consistent color palette and typography system throughout the website.
 
-3. **Content Integration**  
+4. **Content Integration**  
+
    - Added engaging text and high-quality imagery  
    - Created pages such as *Home*, *About*, *Offices*, *Services*, and *Contact*
 
-4. **Responsive Design**  
-    Ensured consistent layout and design across all screen sizes
+6. **Responsive Design**  
+
+     Ensured consistent layout and design across all screen sizes
     
     Optimized grids, typography, and UI elements for seamless tablet and mobile experiences
 
-5. **Performance Optimization**  
-    – Optimized scripts and styles to reduce load times.
+8. **Performance Optimization**  
+
+     – Optimized scripts and styles to reduce load times.
     – Enhanced images and applied effective caching strategies.
     – Boosted overall site speed and performance.
 
-6. **Testing & Deployment**  
+10. **Testing & Deployment**  
+  
     - Conducted cross-browser testing  
     - Deployed site on [zync-crm.com](https://flexedge.zync-crm.com/)  
 
