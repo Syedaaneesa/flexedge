@@ -48,9 +48,9 @@ Dedicated to building a high-quality, scalable, and user-centric digital experie
 
 1. **Planning & Structure**
 
-  Conducted in-depth research on the FlexEdge brand and its target audience.
-  
-  Created detailed wireframes and established the project’s overall visual design direction.
+     Conducted in-depth research on the FlexEdge brand and its target audience.
+     
+     Created detailed wireframes and established the project’s overall visual design direction.
 
 2. **Theme Setup & Customization**  
    Set up WordPress and configured all necessary plugins.
