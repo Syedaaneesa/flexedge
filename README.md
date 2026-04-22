@@ -106,15 +106,15 @@ Here are some screenshots from the project:
 ##  Efforts & Contributions
 
 This project involved:
-Built pages from scratch using Elementor Pro for a fully customized experience.
+Built fully customized and dynamic web pages from scratch using Elementor Pro, ensuring a user-focused, visually engaging, and high-performance experience.
 
-Developed flexible, scalable custom layout systems to meet project needs.
+Developed flexible and scalable layout systems that can easily adapt to evolving content and diverse project requirements.
 
-Styled components with custom CSS to achieve a polished, professional look.
+Enhanced UI/UX by styling components with custom CSS, maintaining consistency, modern design standards, and a polished professional appearance.
 
-Organized site structure and managed SEO-optimized content to enhance search visibility.
+Structured website architecture effectively and implemented SEO best practices, including content hierarchy, keyword optimization, and improved search visibility.
 
-Applied responsive and accessible design principles to ensure seamless performance across all devices.
+Ensured fully responsive and accessible design, optimizing performance and usability across desktops, tablets, and mobile devices.
 
 ---
 
