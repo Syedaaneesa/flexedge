@@ -132,7 +132,7 @@ Created an intuitive and user-friendly interface, enabling clients to easily man
 
 ##  Contact
 
-Interested in WordPress website design, Elementor customization, or full project development? Let’s connect and bring your ideas to life!
+Interested in WordPress website design, Elementor customization, or complete project development? I’m here to help turn your ideas into a fully functional and visually appealing website. Whether you need a simple landing page, a business website, or a full-featured eCommerce store, I can provide tailored solutions to match your goals. Let’s connect, discuss your vision, and bring your ideas to life with a professional and modern online presence!
 
 ** Developer:** Syeda Aneesa  
 ** Email:** saneesa@zeestmedia.com]  
