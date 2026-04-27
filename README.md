@@ -54,15 +54,16 @@ Dedicated to building a high-quality, scalable, and user-centric digital experie
 
 2. **Theme Setup & Customization**  
 
-    Set up WordPress and configured all necessary plugins.
+     Set up WordPress and configured all necessary plugins.
    
-   Customized Elementor widgets and page templates to meet project specifications.
+     Customized Elementor widgets and page templates to meet project specifications.
    
-   Implemented a consistent color palette and typography system throughout the website.
+     Implemented a consistent color palette and typography system throughout the website.
 
 4. **Content Integration**  
 
-   - Added engaging text and high-quality imagery  
+   - Added engaging text and high-quality imagery
+     
    - Created pages such as *Home*, *About*, *Offices*, *Services*, and *Contact*
 
 6. **Responsive Design**  
@@ -73,8 +74,10 @@ Dedicated to building a high-quality, scalable, and user-centric digital experie
 
 8. **Performance Optimization**  
 
-     – Optimized scripts and styles to reduce load times.
+    – Optimized scripts and styles to reduce load times.
+
     – Enhanced images and applied effective caching strategies.
+   
     – Boosted overall site speed and performance.
 
 10. **Testing & Deployment**  
