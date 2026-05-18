@@ -1,10 +1,11 @@
  FlexEdge – Making Your Office Search Effortless
+A modern and fully responsive WordPress website designed to help professionals and businesses easily find the ideal office space. The platform features a clean, user-friendly interface, responsive layouts, intuitive navigation, and optimized performance to ensure a smooth experience across all devices.
+
 
 ![FlexEdge Banner](https://github.com/Syedaaneesa/flexedge/blob/main/FlexEdge-%E2%80%93-Helping-You-Find-the-Perfect-Office-%E2%80%93-At-FlexEdge-we-make-it-simple-to-find-the-right-office-space-for-you-and-your-team--10-07-2025_08_15_PM.png)
 
 ##  Live Website
 **Website:** [FlexEdge](https://flexedge.zync-crm.com/)  
-A modern, fully responsive WordPress website designed to help professionals and businesses easily discover the ideal office space.
 
 ---
 
