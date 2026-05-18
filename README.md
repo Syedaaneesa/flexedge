@@ -1,4 +1,4 @@
- FlexEdge – Making Your Office Search Effortless
+## FlexEdge – Making Your Office Search Effortless
 A modern and fully responsive WordPress website designed to help professionals and businesses easily find the ideal office space. The platform features a clean, user-friendly interface, responsive layouts, intuitive navigation, and optimized performance to ensure a smooth experience across all devices.
 
 
