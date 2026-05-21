@@ -147,7 +147,9 @@ Interested in WordPress website design, Elementor customization, or complete pro
 ##  Author
 
 **Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)  
+
 **Project Type:** Freelance / Personal WordPress Project  
+
 **Date:** July 2025  
 
 ---
