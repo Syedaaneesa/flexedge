@@ -1,5 +1,6 @@
 ## FlexEdge – Making Your Office Search Effortless
-A modern and responsive WordPress website developed for office space discovery, featuring intuitive navigation, advanced search functionality, and optimized performance. Designed to provide a seamless browsing experience across desktop, tablet, and mobile devices, the platform helps businesses and professionals quickly find and explore suitable office spaces through a clean, user-friendly interface.
+
+A modern and fully responsive WordPress website developed for office space discovery, featuring intuitive navigation, advanced search functionality, and optimized performance. Designed to deliver a seamless user experience across desktop, tablet, and mobile devices, the platform enables businesses and professionals to easily search, explore, and compare available office spaces through a clean, user-friendly interface. With fast-loading pages, streamlined functionality, and a visually appealing design, the website makes finding the right workspace efficient and hassle-free.
 
 ![FlexEdge Banner](https://github.com/Syedaaneesa/flexedge/blob/main/FlexEdge-%E2%80%93-Helping-You-Find-the-Perfect-Office-%E2%80%93-At-FlexEdge-we-make-it-simple-to-find-the-right-office-space-for-you-and-your-team--10-07-2025_08_15_PM.png)
 
